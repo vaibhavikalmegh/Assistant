@@ -23,30 +23,7 @@ A smart voice-based assistant built with Python that can:
 | 🔊 Text-to-Speech | Assistant speaks responses back to you |
 | 🧩 Modular Design | Cleanly structured with separate modules for logic, UI, and API |
 
----
 
-## 📁 Project Structure
-
-whatsapp-assistant/
-│
-├── engine/ # Core logic and helpers
-│ ├── command.py
-│ ├── config.py
-│ ├── features.py
-│ ├── helper.py
-│ └── db.py
-│
-├── www/ # Web interface
-│ ├── index.html
-│ ├── main.js
-│ ├── controller.js
-│ ├── script.js
-│ └── style.css
-│
-├── main.py # Project entry point
-├── run.py # Alternate entry script
-├── .gitignore
-└── README.md
 
 ## 🔐 Privacy Notice
 
