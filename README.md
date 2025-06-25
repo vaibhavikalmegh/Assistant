@@ -4,7 +4,7 @@ A Python-based voice assistant that sends WhatsApp messages, makes calls, opens 
 
 ## 📽️ Demo
 
-🎥 [Watch Demo Video](./demo.mp4)
+🎥 [Watch Full Demo on Google Drive](https://drive.google.com/file/d/1Yum_9rY4S-vG1vgi3TYyKKFy4u7L54Sw/view?usp=sharing)
 ---
 
 ## 🚀 Features
