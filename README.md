@@ -65,9 +65,12 @@ python jarvis.py
 ---
 
 ## 👩‍💻 About Me
-
-I’m **Vaibhavi Kalmegh**, a postgraduate in Statistics with a passion for AI, automation, and full-stack development.  
-This project is part of my journey to build intelligent systems with real-world usability.
+Vaibhavi Sanjay Kalmegh
+📍 G.V.I.S.H., Amravati
+🎓 M.Sc. in Statistics (2023) 
+Follow me on:  
+🔗 [GitHub](https://github.com/vaibhavikalmegh)  
+🔗 [LinkedIn](https://www.linkedin.com/in/vaibhavikalmegh18)
 
 ---
 
