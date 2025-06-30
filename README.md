@@ -65,7 +65,7 @@ python jarvis.py
 ---
 
 ## 👩‍💻 About Me
-Vaibhavi Sanjay Kalmegh
+Vaibhavi Kalmegh
 📍 G.V.I.S.H., Amravati
 🎓 M.Sc. in Statistics (2023) 
 Follow me on:  
