@@ -2,8 +2,6 @@
 
 A Python-based voice assistant that sends WhatsApp messages, makes calls, opens apps, and answers questions using Hugging Face AI — all through a sleek web interface.
 
-## 📽️ Demo
-
 🎥 [Watch Full Demo on Google Drive](https://drive.google.com/file/d/1Yum_9rY4S-vG1vgi3TYyKKFy4u7L54Sw/view?usp=sharing)
 ---
 
@@ -48,7 +46,7 @@ The following sensitive files were excluded for your safety and privacy:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/whatsapp-assistant.git
+git clone https://github.com/vaibhavikalmegh/Assistant.git
 cd whatsapp-assistant
 
 # (Optional) Set up a virtual environment
